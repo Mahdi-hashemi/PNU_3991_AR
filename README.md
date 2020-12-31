@@ -1,4 +1,4 @@
-<h2>مهدی هاشمی</h2>
+ مهدی هاشمی
 - [PNU_3991_AR](https://github.com/Mahdi-hashemi/PNU_3991AR)
 - [Resume](https://mahdi-hashemi.github.io/CVE/) 
 - [SOP](https://mahdi-hashemi.github.io/SOP//)
