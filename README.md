@@ -40,7 +40,10 @@
      
      
      
+ <div dir="rtl">    
+     
 ## روز و ساعت ارائه دروس
+
 
 <table style="width:90%">
     <tr>
