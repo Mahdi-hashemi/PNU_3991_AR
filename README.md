@@ -39,7 +39,7 @@
      
 ## روز و ساعت ارائه دروس
 
-<table style="width:100%">
+<table style="width:90%">
     <tr>
     <th >16-18</th>
     <th >14-16</th>
