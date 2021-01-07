@@ -52,19 +52,19 @@
     <th ></th>
     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines">نظریه زبان و ماشینها </a></th>
     <th></th>
-    <th></th>
+    <th>شبکه های کامپیوتری </th>
     <th>شنبه</th>
   </tr>
    <tr>
-    <th ></th>
+    <th >اقتصاد مهندسی</th>
     <th ></th>
     <th></th>
-    <th></th>
-    <th ></th>
+    <th>مدیریت پروژه فناوری</th>
+    <th >اصول فناوری اطلاعات</th>
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th ></th>
+     <th >ریاضی مهندسی </th>
    </th>
      <th ></th>
      <th></th>
@@ -85,7 +85,7 @@
     <th ></th>
     <th></th>
     <th></th>
-     <th ></th>
+     <th >اصول مدیریت برنامه ریزی راهبردی</th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
