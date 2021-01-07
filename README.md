@@ -40,7 +40,18 @@
      
      
 --------------
-     
+
+
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/Mahdi-hashemi/PNU_3991_AR/blob/main/MH_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/Mahdi-hashemi/PNU_3991_AR/blob/main/MH_GeneralSection_CheckList_AR_3991.pdf)
+
+
+------------------
+
+
 ## روز و ساعت ارائه دروس
 
 
