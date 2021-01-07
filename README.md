@@ -39,12 +39,12 @@
      1. [TLM02-52 سعید کولیوند](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/52_%D8%B3%D8%B9%D9%8A%D8%AF%20%D9%83%D9%88%D9%84%D9%8A%20%D9%88%D9%86%D8%AF)
      
      
-     
- <div dir="rtl">    
+
      
 ## روز و ساعت ارائه دروس
 
 
+<div dir="rtl">
 <table style="width:90%">
     <tr>
     <th >16-18</th>
